@@ -1,0 +1,15 @@
+
+Body{
+background-color:#89CFF0;
+align-content: center; 
+text-align:center;
+}
+p{
+text-align: center; 
+}
+.blackText{
+ color:black
+}
+.contentCenter{
+    align-items: center;
+}
